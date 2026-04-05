@@ -1,0 +1,11 @@
+feature,importance
+Contract_Two year,0.67710346
+MonthlyCharges,0.52986014
+tenure,0.43839046
+PaymentMethod_Mailed check,0.4160021
+Contract_One year,0.40874982
+PaymentMethod_Credit card (automatic),0.39402902
+PaymentMethod_Electronic check,0.3924992
+PaymentMethod_Bank transfer (automatic),0.38582265
+avg_monthly_spend,0.3667539
+OnlineSecurity,0.35177302
